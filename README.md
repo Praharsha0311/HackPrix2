@@ -1,2 +1,2 @@
 # HackPrix2
-HackPrix-Season 3
+HackPrix-Season 2
